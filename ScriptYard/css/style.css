@@ -1210,7 +1210,7 @@ fieldset[disabled] .s-btn {
 
 @media (max-width: 61.9em) {
   .s-header__logo {
-    width: auto;
+    width: 100%;
     height: auto;
     float: left;
   }
